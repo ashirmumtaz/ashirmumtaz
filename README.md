@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashirmumtaz" alt="ashirmumtaz" /></a> </p>
 
-- 🔭 I’m currently working on [Analyzing the performance of all YOLO Models](https://github.com/ashirmumtaz/Analyzing-all-versions-of-YOLO)
+- 🔭 I’m currently working on [Analyzing the performance of all YOLO Models](https://github.com/ashirmumtaz/Medical-ChatBot)
 
 - 🌱 I’m currently learning **NLP and Generative AI**
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://ashirmumtaz.blogspot.com/](https://ashirmumtaz.blogspot.com/)
 
-- 💬 Ask me about **Machine Learning, Deep Learning**
+- 💬 Ask me about **Machine Learning, Deep Learning & Generative AI**
 
 - 📫 How to reach me **ashir.mumtaz@hotmail.com**
 
