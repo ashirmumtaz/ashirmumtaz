@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQEZHS45pEoxnQ/profile-displaybackgroundimage-shrink_350_1400/B4DZsMHRVKHwAY-/0/1765434792567?e=1769040000&v=beta&t=QpRg6I2JiPX4RQsbrndZm2s1JU_yue2hWcCMlEYQoRk)](https://github.com/ashirmumtaz)
+[![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQEZHS45pEoxnQ/profile-displaybackgroundimage-shrink_350_1400/B4DZsMHRVKHwAY-/0/1765434792567?e=1776902400&v=beta&t=WXf5VvseKnIyhMlCe9pqj3wKNV9ozVfzOpBCHTpsIeg)](https://github.com/ashirmumtaz)
 <h1 align="center">Hi 👋, I'm Ashir Mumtaz</h1>
 <h3 align="center">A passionate Artificial Intelligence developer from Pakistan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashirmumtaz&label=Profile%20views&color=0e75b6&style=flat" alt="ashirmumtaz" /> </p>
